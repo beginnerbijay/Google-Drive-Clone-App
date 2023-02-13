@@ -1,7 +1,7 @@
 # Google-Drive-Clone-App
 
 
-This is a simple Blog App, which lets you view, publish, edit, or delete your published blogs and also like and comment on the posts. It uses Material UI for styling. This is a self Learning Project to explore building CRUD Applications using MERN.
+This is a simple Google Drive clone app where the user can upload any files to the server and also view the info about that. It allows to Authentication using Google OAuth, provided by the Firebase service.
 
 ## Demo
 
